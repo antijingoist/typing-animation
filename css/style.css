@@ -73,34 +73,3 @@ body {
   100% {opacity: 0;}
 }
 
-/** Footer **/
-footer {
-  width: 100%;
-  position: fixed;
-  bottom: 0;
-  background: #2b2b2b;
-  color: #fff;
-}
-
-footer p {
-  display: inline-block;
-}
-
-footer p a {
-  color: #9bd488;
-  text-decoration: none;
-}
-
-footer p a:hover {
-  text-decoration: underline;
-}
-
-footer .left {
-  float: left;
-  padding-left: 3%;
-}
-
-footer .right {
-  float: right;
-  padding-right: 3%;
-}
